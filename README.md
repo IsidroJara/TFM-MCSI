@@ -23,9 +23,5 @@ After install and run, the services listed below are available in the following 
 
 | Service | URL |
 | ------ | ------ |
-| Wordpress | [localhost:8000/wp-admin/install.php][PlDb] |
-| PHPMyAdmin | [localhost:8080][PlGh] |
-
-
-   [PlDb]: <https://localhost:8000/wp-admin/install.php>
-   [PlGh]: <https://localhost:8080>
+| Wordpress | [localhost:8000/wp-admin/install.php] |
+| PHPMyAdmin | [localhost:8080] |
