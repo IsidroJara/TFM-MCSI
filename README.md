@@ -17,3 +17,11 @@ $ cd code
 $ docker-compose up -d
 ```
 
+### Services
+
+After install and run, the services listed below are available in the following URLs.
+
+| Service | URL |
+| ------ | ------ |
+| Wordpress | [localhost:8000/wp-admin/install.php.][PlDb] |
+| PHPMyAdmin | [localhost:8080][PlGh] |
