@@ -45,7 +45,7 @@ After install and run, the services listed below are available in the following 
    [AngularJS]: <http://angularjs.org>
    [Gulp]: <http://gulpjs.com>
 
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
+   [PlDb]: <localhost:8000/wp-admin/install.php>
    [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
    [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
    [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
