@@ -24,4 +24,4 @@ After install and run, the services listed below are available in the following 
 | Service | URL |
 | ------ | ------ |
 | Wordpress | localhost:8000/wp-admin/install.php |
-| PHPMyAdmin | localhost:8080](localhost:8080 |
+| PHPMyAdmin | localhost:8080 |
