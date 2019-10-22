@@ -25,3 +25,15 @@ After install and run, the services listed below are available in the following 
 | ------ | ------ |
 | Wordpress | [localhost:8000/wp-admin/install.php.][PlDb] |
 | PHPMyAdmin | [localhost:8080][PlGh] |
+
+
+
+
+| Plugin | README |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
